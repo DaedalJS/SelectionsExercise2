@@ -1,0 +1,12 @@
+C:\Users\HolyK\Desktop\GitRepos\SelectionsExercise2\SelectionsExercise2\bin\Debug\netcoreapp3.1\SelectionsExercise2.exe
+C:\Users\HolyK\Desktop\GitRepos\SelectionsExercise2\SelectionsExercise2\bin\Debug\netcoreapp3.1\SelectionsExercise2.deps.json
+C:\Users\HolyK\Desktop\GitRepos\SelectionsExercise2\SelectionsExercise2\bin\Debug\netcoreapp3.1\SelectionsExercise2.runtimeconfig.json
+C:\Users\HolyK\Desktop\GitRepos\SelectionsExercise2\SelectionsExercise2\bin\Debug\netcoreapp3.1\SelectionsExercise2.runtimeconfig.dev.json
+C:\Users\HolyK\Desktop\GitRepos\SelectionsExercise2\SelectionsExercise2\bin\Debug\netcoreapp3.1\SelectionsExercise2.dll
+C:\Users\HolyK\Desktop\GitRepos\SelectionsExercise2\SelectionsExercise2\bin\Debug\netcoreapp3.1\SelectionsExercise2.pdb
+C:\Users\HolyK\Desktop\GitRepos\SelectionsExercise2\SelectionsExercise2\obj\Debug\netcoreapp3.1\SelectionsExercise2.AssemblyInfoInputs.cache
+C:\Users\HolyK\Desktop\GitRepos\SelectionsExercise2\SelectionsExercise2\obj\Debug\netcoreapp3.1\SelectionsExercise2.AssemblyInfo.cs
+C:\Users\HolyK\Desktop\GitRepos\SelectionsExercise2\SelectionsExercise2\obj\Debug\netcoreapp3.1\SelectionsExercise2.csproj.CoreCompileInputs.cache
+C:\Users\HolyK\Desktop\GitRepos\SelectionsExercise2\SelectionsExercise2\obj\Debug\netcoreapp3.1\SelectionsExercise2.dll
+C:\Users\HolyK\Desktop\GitRepos\SelectionsExercise2\SelectionsExercise2\obj\Debug\netcoreapp3.1\SelectionsExercise2.pdb
+C:\Users\HolyK\Desktop\GitRepos\SelectionsExercise2\SelectionsExercise2\obj\Debug\netcoreapp3.1\SelectionsExercise2.genruntimeconfig.cache
