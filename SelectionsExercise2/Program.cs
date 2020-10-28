@@ -9,46 +9,23 @@ namespace SelectionsExercise2
 
             Console.WriteLine("what's your favorite school subject?");
             string subject = Console.ReadLine();
-            int subNum = 6;
-            subject = subject.ToLower();
+            subject = subject.ToLower();     
 
-            if (subject == "math")
+            switch (subject)
             {
-                subNum = 1;
-            }
-            else if (subject == "history")
-            {
-                subNum = 2;
-            }
-            else if (subject == "art")
-            {
-                subNum = 3;
-            }
-            else if (subject == "pe")
-            {
-                subNum = 4;
-            }
-            else if (subject == "science")
-            {
-                subNum = 5;
-            }
-           
-
-            switch (subNum)
-            {
-                case 1:
+                case "math":
                     Console.WriteLine($"{subject}, you like to play with them numbers huh?");
                     break;
-                case 2:
+                case "history":
                     Console.WriteLine($"{subject}, you like hearing about them has beens huh?");
                     break;
-                case 3:
+                case "art":
                     Console.WriteLine($"{subject}, ah... gonna major in 'do you want fries with that' huh?");
                     break;
-                case 4:
+                case "pe":
                     Console.WriteLine($"{subject}, you're the type who just can't sit still huh?");
                     break;
-                case 5:
+                case "science":
                     Console.WriteLine($"{subject}, you like being a know it all huh?");
                     break;
                 default:
